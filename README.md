@@ -307,7 +307,8 @@ Potential future enhancements include:
 # Author
 
 ## Nwafor Franklin
-Information Systems Analyst | Data Analytics Consultant
+Customer Insight Analyst | Data Analytics Consultant
 
 - LinkedIn: https://linkedin.com/in/nwaforfranklin100
 - GitHub: https://github.com/fhranklyndre
+- Power BI Service : https://app.powerbi.com/links/UuTrryraxu?ctid=da576379-82e5-4745-b1c2-82ee2329f713&pbi_source=linkShare
